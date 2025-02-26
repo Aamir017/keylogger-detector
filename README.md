@@ -31,17 +31,15 @@ cd keylogger-detector
 
 Make sure you have Python 3.8+ installed, then run:
 
-bash :
-
+```bash
 pip install -r requirements.txt
+```
 
 3️⃣ Run the Detector
 
-bash :
-
+```bash
 python keylogger_detector.py
-
-
+```
 ## ⚠️ Important Notes
 
 * Run the script as an Administrator to detect all processes.
