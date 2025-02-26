@@ -22,10 +22,12 @@ Runs in the background without affecting performance 🖥️
 ## 📥 Installation
 
 1️⃣ Clone the Repository
-
+```bash
 git clone https://github.com/your-username/keylogger-detector.git
-
+```
+```bash
 cd keylogger-detector
+```
 
 2️⃣ Install Dependencies
 
